@@ -8,7 +8,7 @@
                                                                    Proposed Architecture
 
 
-                           ![gui](https://user-images.githubusercontent.com/56121394/210594665-f9415673-80a7-428f-87a5-c400e5788f17.png)
+  ![gui](https://user-images.githubusercontent.com/56121394/210594665-f9415673-80a7-428f-87a5-c400e5788f17.png)
 
 
                                                                   GUI Interface using Tkinter
