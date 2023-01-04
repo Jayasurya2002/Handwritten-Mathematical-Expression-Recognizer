@@ -5,10 +5,10 @@
  ![flow diagram](https://user-images.githubusercontent.com/56121394/210594107-9246b4cc-d60c-48f7-aa98-d53ae10e0720.PNG)
  
  
-                                              Proposed Architecture
+                                                                   Proposed Architecture
 
 
-![gui](https://user-images.githubusercontent.com/56121394/210594665-f9415673-80a7-428f-87a5-c400e5788f17.png)
+                           ![gui](https://user-images.githubusercontent.com/56121394/210594665-f9415673-80a7-428f-87a5-c400e5788f17.png)
 
 
-                                             GUI Interface using Tkinter
+                                                                  GUI Interface using Tkinter
